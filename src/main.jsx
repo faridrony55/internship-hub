@@ -12,6 +12,8 @@ import Blogs from './components/Blogs/Blogs.jsx';
 import Post from './components/Post/Post.jsx';
 import Statictis from './components/Statictis/Statictis.jsx';
 import Featuredjobs from './components/Featuredjobs/Featuredjobs.jsx'; 
+import Notfound from './components/Notfound/Notfound.jsx';
+import { jobLoader } from './components/Jobsloader.js';
 
 const router = createBrowserRouter([
   {
@@ -24,30 +26,39 @@ const router = createBrowserRouter([
         loader:()=> fetch('jobs.json') 
       },
       {
-        path:"/job-details",
+        path:"job-details",
         element: <Jobdetails></Jobdetails>
       },
       {
-        path:"/blogs",
-        element: <Blogs></Blogs>
+        path:"blogs",
+        element: <Blogs></Blogs>,
+        loader: ()=>fetch('https://jsonplaceholder.typicode.com/posts'),
+        
       },
       {
-        path: "/statictis",
+        path:"post/:id",
+        element: <Post></Post>,
+        loader: ({params})=> fetch(`https://jsonplaceholder.typicode.com/posts/${params.id}`)
+        
+
+      },
+      {
+        path: "statictis",
         element:<Statictis></Statictis>
       }, 
       {
-        path:"/post",
-        element: <Post></Post>
-      },
-      {
-        path:"/alljobs",
+        path:"alljobs",
         element:<Featuredjobs></Featuredjobs>,
-        loader:()=> fetch('https://faridrony55.github.io/jobs/jobs.json') 
+        loader:  ()=>    fetch('jobs.json') 
       } ,
       {
-        path: "job/:jobId",
-        element:<Jobdetails></Jobdetails>,
-        loader: ({params}) => fetch(`${params.jobId}`)
+        path: "job/:id",
+        element:<Jobdetails></Jobdetails>, 
+        loader: ({params})=> fetch(`${params.id}`)
+      },
+      {
+        path:"/", 
+        errorElement: <Notfound></Notfound>
       }
     ]
   },

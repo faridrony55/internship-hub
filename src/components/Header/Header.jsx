@@ -18,6 +18,11 @@ const Header = () => {
             path:'/job-details'
         },
         {
+          id:20,
+          name:'alljobs',
+          path:'/alljobs'
+        },
+        {
             id:5,
             name:'Blogs',
             path:'/blogs'

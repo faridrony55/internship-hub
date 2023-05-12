@@ -1,9 +1,10 @@
 import React from 'react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import location from '../../assets/Icons/Location Icon.png'
 import money from '../../assets/Icons/money.png'
 
-const Jobs = ({jobs}) => {
+const Jobs = ({jobs, handleViewDetails}) => {
     const textGradient = {
         backgroundImage: "linear-gradient(to right,#3b82f6,#6804eb)",
     WebkitTextFillColor: "transparent",
@@ -11,6 +12,16 @@ const Jobs = ({jobs}) => {
     }
 
     const {id,name,company,salary,address,picture,jobtype } = jobs;
+
+    // const [job,setJob] = useState()
+   
+    // const jobsDetails = (jobs) => {
+    //         const jobd = [...job,jobs ] ;
+    //         setJob(jobd);
+    //  };
+ 
+
+
     return (
         <div className='border py-10 px-10 rounded-lg'>
             <img src={picture} alt="" />
@@ -25,7 +36,10 @@ const Jobs = ({jobs}) => {
                 <li className='flex items-center'> <img src={location} alt="" /> <span>{address}</span></li>
                 <li className='flex items-center'> <img src={money} alt="" /><span>{salary}</span></li>
             </ul>
-            <Link to={`/job/${id}`} className=' max-md:text-md bg-gradient-to-l from-blue-400 to-purple-400 text-white py-3 px-7 rounded-md'>View Details</Link>
+            <Link to={`/job/${id}`}  onClick={()=>handleViewDetails({jobs})}  className=' max-md:text-md bg-gradient-to-l from-blue-400 to-purple-400 text-white py-3 px-7 rounded-md'>
+                View Details
+                {/* <button onClick={()=>handleViewDetails({jobs})}>View Details</button> */}
+            </Link>
 
         </div>
     );

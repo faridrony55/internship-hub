@@ -1,19 +1,19 @@
-import React  from 'react'; 
-import { useLoaderData } from 'react-router-dom';
+import React  from 'react';  
+import { useState } from 'react';
+import { useEffect } from 'react';
+import { Link, useLoaderData, useParams} from 'react-router-dom'; 
 
 
-const Jobdetails = ( ) => {
-
-    const job = useLoaderData();
+const Jobdetails = ({jobsDetails}) => {
+  const {id} = useParams()
+  console.log(id);
+console.log(jobsDetails);
  
-    console.log(job)
- 
-        
-     
+  
     return (
         <div>
-              
-    </div>
+             wedwre
+        </div>
     );
 };
 
