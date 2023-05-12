@@ -19,15 +19,14 @@ const Jobs = ({jobs, handleViewDetails}) => {
     //         const jobd = [...job,jobs ] ;
     //         setJob(jobd);
     //  };
- 
-
+  
 
     return (
         <div className='border py-10 px-10 rounded-lg'>
             <img src={picture} alt="" />
             <h3 className={` mt-3 text-lg font-bold `}>{name}</h3>
             <p className='my-2'>{company}</p>
-            <div className={` `}>
+            <div className={``}>
                 {
                     jobtype.map(type=> <span style={textGradient} className={` font-medium text-sm capitalize  border mr-3 border-indigo-500 rounded-md py-1 px-4 inline-block`} key={type.id}>{type.name}</span>)
                 }
