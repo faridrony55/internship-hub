@@ -1,0 +1,314 @@
+[
+    {
+      "id": 1,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Talae",
+      "salary": "$1,383.55",
+      "address": "Evans Street, Chical, Wisconsin",
+      "email": "maciasmiller@talae.com",
+      "phone": "+1 (987) 452-2735",
+      "picture": "../src/assets/Logo/google-1-1 1-1.png", 
+      "jobdescription": "Pariatur veniam officia id est. Veniam commodo enim adipisicing labore velit proident ut excepteur ut aliqua amet nisi aute. Ad eiusmod adipisicing enim aliqua minim dolor consectetur. Amet sint eu elit sint elit minim pariatur sunt nostrud.\r\n",
+      "jobresponsibility": "Sunt occaecat et id velit voluptate fugiat ex consectetur ad pariatur. Do magna cillum quis sint magna aliqua id. Dolor deserunt dolore fugiat aute anim ut reprehenderit excepteur cupidatat et irure cupidatat. Culpa eu voluptate laboris adipisicing ullamco nostrud cillum labore. Anim quis velit esse voluptate ullamco.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "blue",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "full time"
+        },
+        {
+          "id": 1,
+          "name": "full time"
+        }
+      ],
+      "jobtcategory": "Account & Finance"
+    },
+    {
+      "id": 2,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Bostonic",
+      "salary": "$1,422.53",
+      "address": "Huron Street, Oley, Idaho",
+      "email": "maciasmiller@bostonic.com",
+      "phone": "+1 (939) 563-2981",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Voluptate exercitation commodo cillum officia velit occaecat adipisicing. Ea consequat occaecat amet reprehenderit velit ea aliqua nisi labore laboris est exercitation anim veniam. Ut nostrud exercitation tempor esse ipsum nisi anim nulla enim elit aliqua incididunt. Laborum dolor fugiat mollit amet enim quis labore deserunt laboris eiusmod quis quis dolore amet. Voluptate ipsum eu dolore culpa officia in ipsum esse. Dolore quis eu consectetur eiusmod non occaecat esse in culpa exercitation laboris deserunt qui. Officia ipsum magna occaecat amet deserunt sint culpa amet in ad.\r\n",
+      "jobresponsibility": "Irure Lorem esse aute cupidatat quis culpa officia tempor duis officia voluptate dolore. Occaecat ut pariatur tempor consectetur sint. Velit irure do et ea exercitation Lorem ex amet esse velit occaecat. Sint cillum sit veniam nulla ut elit deserunt quis proident mollit exercitation est incididunt sit. Ex consectetur voluptate et cupidatat sint fugiat dolor exercitation. Anim cupidatat nostrud elit voluptate sunt proident dolor aliqua in mollit elit.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "green",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "onsite"
+        },
+        {
+          "id": 1,
+          "name": "full time"
+        }
+      ],
+      "jobtcategory": "Engineering Job"
+    },
+    {
+      "id": 3,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Polaria",
+      "salary": "$2,366.30",
+      "address": "Hunts Lane, Robbins, Louisiana",
+      "email": "maciasmiller@polaria.com",
+      "phone": "+1 (841) 579-2964",
+      "picture": "../src/assets/Logo/tesla.png", 
+      "jobdescription": "Culpa incididunt ullamco labore laboris ipsum esse. Cillum consequat cillum dolore irure quis duis ad excepteur ipsum fugiat. Qui aute laborum ex est non laborum. Fugiat labore mollit aute cillum eu velit tempor commodo.\r\n",
+      "jobresponsibility": "Deserunt ad mollit cillum elit aliqua laboris mollit ea do cupidatat incididunt. Deserunt duis laboris anim aute est. Eiusmod occaecat id in ad ad laborum ipsum exercitation. Ullamco dolor aliqua et cillum enim cupidatat qui commodo magna aute id.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "blue",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "onsite"
+        },
+        {
+          "id": 1,
+          "name": "remote"
+        }
+      ],
+      "jobtcategory": "Marketing & Sales"
+    },
+    {
+      "id": 4,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Dogspa",
+      "salary": "$2,813.58",
+      "address": "Dennett Place, Hessville, Utah",
+      "email": "maciasmiller@dogspa.com",
+      "phone": "+1 (976) 519-3617",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Et quis veniam sint mollit ea labore aliqua sit consequat. Voluptate cillum ex magna culpa ut sint do elit. Tempor aute velit eiusmod proident pariatur ea est enim magna exercitation. Anim enim id dolore minim. Tempor ea ex enim irure culpa minim. Sunt et consectetur non culpa ullamco.\r\n",
+      "jobresponsibility": "Ea duis cupidatat ad officia laboris adipisicing est fugiat. Ad ex laboris cupidatat non quis consequat. Sit reprehenderit magna nostrud nostrud occaecat. Nulla dolor ut ullamco cupidatat eiusmod incididunt veniam proident aute eu velit ut. Sint veniam eiusmod ad do esse do laborum magna do magna proident voluptate esse labore.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "amber",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "remote"
+        },
+        {
+          "id": 1,
+          "name": "onsite"
+        }
+      ],
+      "jobtcategory": "Marketing & Sales"
+    },
+    {
+      "id": 5,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Bizmatic",
+      "salary": "$2,869.33",
+      "address": "Harkness Avenue, Lawrence, Virginia",
+      "email": "maciasmiller@bizmatic.com",
+      "phone": "+1 (829) 477-3681",
+      "picture": "../src/assets/Logo/tesla.png", 
+      "jobdescription": "Mollit ea aliqua officia ea veniam anim anim. Consequat quis minim sunt eu nisi. Aute excepteur duis labore est dolore. Fugiat proident aliquip et laborum amet tempor minim irure magna ea cupidatat laborum. Dolor commodo minim Lorem id elit magna laboris ea amet proident culpa tempor irure anim. Do anim do voluptate veniam qui.\r\n",
+      "jobresponsibility": "Culpa sint excepteur amet consectetur tempor adipisicing ipsum. Aute mollit eu amet labore Lorem Lorem voluptate voluptate excepteur proident ut. In quis cupidatat minim laborum minim voluptate fugiat veniam aliqua tempor pariatur ullamco irure deserunt. Amet pariatur pariatur laborum sunt esse elit esse ut commodo culpa. Excepteur Lorem velit minim aliqua occaecat do duis amet cillum.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "brown",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "onsite"
+        },
+        {
+          "id": 1,
+          "name": "onsite"
+        }
+      ],
+      "jobtcategory": "Account & Finance"
+    },
+    {
+      "id": 6,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Zilladyne",
+      "salary": "$1,561.38",
+      "address": "Pacific Street, Caln, California",
+      "email": "maciasmiller@zilladyne.com",
+      "phone": "+1 (993) 578-2981",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Ex elit ipsum culpa duis in ea qui id. Esse deserunt labore nulla labore. Nostrud qui magna velit commodo nulla est nisi labore veniam nisi sit labore velit non. Magna culpa laborum consectetur ut officia tempor sint. Excepteur esse labore pariatur et aliquip nulla fugiat officia minim nulla. Excepteur deserunt aliqua enim voluptate tempor id consectetur in aliquip.\r\n",
+      "jobresponsibility": "Excepteur ullamco adipisicing labore sunt in esse id magna dolor nisi officia incididunt fugiat proident. Ullamco dolore sit aliqua occaecat. Ad esse dolor aliqua consectetur enim reprehenderit commodo tempor laboris ipsum laborum ex et. Enim et in occaecat enim aliquip nulla officia enim culpa eiusmod ipsum esse anim laboris.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "teal",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "onsite"
+        },
+        {
+          "id": 1,
+          "name": "full time"
+        }
+      ],
+      "jobtcategory": "Creative Design"
+    },
+    {
+      "id": 7,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Freakin",
+      "salary": "$1,711.08",
+      "address": "Hastings Street, Brewster, West Virginia",
+      "email": "maciasmiller@freakin.com",
+      "phone": "+1 (824) 512-2615",
+      "picture": "../src/assets/Logo/tesla.png", 
+      "jobdescription": "Qui commodo incididunt proident pariatur officia amet ut. Quis reprehenderit adipisicing veniam id ex eu irure ullamco. Ex occaecat magna ullamco excepteur magna fugiat.\r\n",
+      "jobresponsibility": "Officia nostrud et est et aliquip ea cupidatat veniam pariatur irure elit Lorem non. Sint in deserunt ipsum minim velit excepteur occaecat eiusmod deserunt. Non ullamco quis aute minim ullamco laboris id nisi incididunt labore.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "teal",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "full time"
+        },
+        {
+          "id": 1,
+          "name": "remote"
+        }
+      ],
+      "jobtcategory": "Engineering Job"
+    },
+    {
+      "id": 8,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Acumentor",
+      "salary": "$2,610.54",
+      "address": "Williams Avenue, Olney, Guam",
+      "email": "maciasmiller@acumentor.com",
+      "phone": "+1 (968) 562-2191",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Excepteur aliqua reprehenderit Lorem enim non eu labore pariatur labore cupidatat. Sint duis sunt ad eiusmod amet elit. Eu deserunt aliquip pariatur qui in consectetur sint. Ex voluptate ut sit Lorem do laboris voluptate sunt tempor reprehenderit cupidatat cillum. Dolore eu do occaecat Lorem tempor dolore. Minim irure velit pariatur ipsum deserunt quis esse eiusmod.\r\n",
+      "jobresponsibility": "Qui proident id in ullamco. Aliqua cillum deserunt cillum ea do sunt eiusmod. Tempor cupidatat culpa ipsum voluptate minim.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "green",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "full time"
+        },
+        {
+          "id": 1,
+          "name": "remote"
+        }
+      ],
+      "jobtcategory": "Creative Design"
+    },
+    {
+      "id": 9,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Mangelica",
+      "salary": "$1,490.24",
+      "address": "Moore Place, Sedley, American Samoa",
+      "email": "maciasmiller@mangelica.com",
+      "phone": "+1 (813) 451-2777",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Lorem dolore quis velit dolore qui enim. Officia velit qui Lorem ex cillum esse. Eiusmod ad duis eu pariatur veniam labore. Ad deserunt et esse in consequat cupidatat aute officia velit. Proident adipisicing est anim anim cupidatat officia reprehenderit irure excepteur culpa. Ad nisi enim ut mollit quis proident dolore esse culpa eu exercitation sunt. Do minim ea est esse magna.\r\n",
+      "jobresponsibility": "Sint enim voluptate exercitation Lorem deserunt ad laborum nulla eu. Laborum consectetur laboris eiusmod do enim in. Commodo reprehenderit sint dolore quis exercitation et non nisi et. Anim voluptate aliquip mollit ut reprehenderit ea tempor laboris ad amet ex. Ea anim ex excepteur cupidatat non duis cillum adipisicing reprehenderit.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "blue",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "remote"
+        },
+        {
+          "id": 1,
+          "name": "remote"
+        }
+      ],
+      "jobtcategory": "Marketing & Sales"
+    },
+    {
+      "id": 10,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Duflex",
+      "salary": "$1,945.81",
+      "address": "Turner Place, Crumpler, Kentucky",
+      "email": "maciasmiller@duflex.com",
+      "phone": "+1 (899) 507-2393",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Occaecat ea deserunt ullamco non amet magna labore. Id minim Lorem deserunt nulla ex. Proident veniam duis voluptate velit exercitation est aliqua ullamco ut sit incididunt labore dolore ea. Anim magna eu nulla incididunt proident qui deserunt do incididunt reprehenderit incididunt Lorem.\r\n",
+      "jobresponsibility": "Fugiat sit aliquip fugiat quis sit est commodo mollit ea ut. Consectetur pariatur cillum ipsum excepteur dolor id. Esse culpa ipsum Lorem consectetur qui veniam aute. Est proident commodo ad nulla amet cillum magna minim commodo.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "green",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "onsite"
+        },
+        {
+          "id": 1,
+          "name": "remote"
+        }
+      ],
+      "jobtcategory": "Account & Finance"
+    },
+    {
+      "id": 11,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Isbol",
+      "salary": "$1,299.87",
+      "address": "Banner Avenue, Hickory, Florida",
+      "email": "maciasmiller@isbol.com",
+      "phone": "+1 (961) 504-3426",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Occaecat duis enim cillum enim laboris officia do esse. Occaecat ut do excepteur esse sit ipsum officia. Non ea pariatur occaecat occaecat tempor nisi Lorem tempor.\r\n",
+      "jobresponsibility": "Elit incididunt officia incididunt quis qui cupidatat aliqua veniam. Magna consequat fugiat ullamco sint ipsum. Eiusmod nulla laborum eu consectetur aliquip commodo labore id. Aliquip ad laboris veniam enim.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "indigo",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "remote"
+        },
+        {
+          "id": 1,
+          "name": "onsite"
+        }
+      ],
+      "jobtcategory": "Creative Design"
+    },
+    {
+      "id": 12,
+      "name": "<ReferenceError: words is not defined> ",
+      "company": "Earthpure",
+      "salary": "$3,054.75",
+      "address": "Neptune Avenue, Trail, Minnesota",
+      "email": "maciasmiller@earthpure.com",
+      "phone": "+1 (819) 478-2867",
+      "picture": "../src/assets/Logo/netflix-4 1.png", 
+      "jobdescription": "Cillum ut reprehenderit ut est adipisicing excepteur dolore dolor minim velit veniam. Officia officia dolore occaecat ullamco Lorem ex ad aute voluptate mollit officia. Do et nisi eu culpa proident nisi velit cupidatat proident nostrud sit id incididunt. Lorem ea ex minim sint.\r\n",
+      "jobresponsibility": "Pariatur non laboris officia adipisicing ad incididunt pariatur qui ea cupidatat cillum occaecat duis et. Exercitation culpa eiusmod eiusmod ullamco quis non nulla excepteur consectetur anim ut sint laborum consectetur. Elit nostrud nisi aliquip deserunt enim. Fugiat irure occaecat irure sit dolore commodo culpa. Nostrud consequat commodo et exercitation in eu sint pariatur aliqua id amet duis. Aliquip exercitation nisi in elit exercitation amet sit ut eu occaecat eu cillum minim.\r\n",
+      "requirments": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "color": "amber",
+      "jobtype": [
+        {
+          "id": 0,
+          "name": "full time"
+        },
+        {
+          "id": 1,
+          "name": "remote"
+        }
+      ],
+      "jobtcategory": "Engineering Job"
+    }
+  ]
